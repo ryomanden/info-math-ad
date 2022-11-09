@@ -10,7 +10,7 @@ class Main {
         
         for(int i = 0; i < n; i++) {
             System.out.print("num" + (i+1) + "=> ");
-            arr[i] = scan.nextInt();
+            arr[i] = scan.nextDouble();
             sum += arr[i];
         }
         
