@@ -1,0 +1,3 @@
+[submodule "8/hash_password"]
+	path = 8/hash_password
+	url = https://github.com/sudahiroshi/hash_password.git
