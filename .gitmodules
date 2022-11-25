@@ -1,3 +1,6 @@
 [submodule "8/hash_password"]
 	path = 8/hash_password
 	url = https://github.com/sudahiroshi/hash_password.git
+[submodule "9/chain"]
+	path = 9/chain
+	url = https://github.com/sudahiroshi/chain.git
